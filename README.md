@@ -1,4 +1,5 @@
-### Hi there 👋
+Hello everyone, my name is Yusuf!
+I'm a CS Freshman at Bilkent University
 
 <!--
 **Yusuf-Bedri-Bitiren/Yusuf-Bedri-Bitiren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
